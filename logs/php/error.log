@@ -1,0 +1,14 @@
+[09-Feb-2022 23:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function grett() in /Users/jose/Local Sites/fictional-univeristy/app/public/wp-content/themes/fictional-univeristy-theme/index.php:10
+Stack trace:
+#0 /Users/jose/Local Sites/fictional-univeristy/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jose/Local Sites/fictional-univeristy/app/public/wp-blog-header.php(19): require_once('/Users/jose/Loc...')
+#2 /Users/jose/Local Sites/fictional-univeristy/app/public/index.php(17): require('/Users/jose/Loc...')
+#3 {main}
+  thrown in /Users/jose/Local Sites/fictional-univeristy/app/public/wp-content/themes/fictional-univeristy-theme/index.php on line 10
+[09-Feb-2022 23:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function grett() in /Users/jose/Local Sites/fictional-univeristy/app/public/wp-content/themes/fictional-univeristy-theme/index.php:10
+Stack trace:
+#0 /Users/jose/Local Sites/fictional-univeristy/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/jose/Local Sites/fictional-univeristy/app/public/wp-blog-header.php(19): require_once('/Users/jose/Loc...')
+#2 /Users/jose/Local Sites/fictional-univeristy/app/public/index.php(17): require('/Users/jose/Loc...')
+#3 {main}
+  thrown in /Users/jose/Local Sites/fictional-univeristy/app/public/wp-content/themes/fictional-univeristy-theme/index.php on line 10
